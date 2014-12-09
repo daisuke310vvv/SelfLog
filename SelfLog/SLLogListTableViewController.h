@@ -1,0 +1,13 @@
+//
+//  SLLogListTableViewController.h
+//  SelfLog
+//
+//  Created by SatoDaisuke on 12/9/14.
+//  Copyright (c) 2014 SatoDaisuke. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface SLLogListTableViewController : UITableViewController
+
+@end
